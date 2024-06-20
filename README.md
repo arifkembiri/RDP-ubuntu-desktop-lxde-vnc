@@ -6,4 +6,6 @@ docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
 
  ```
 
-Change Port to 6070
+- Change Port to 6070
+
+- Only Mozila Firefox can used on RDP 
