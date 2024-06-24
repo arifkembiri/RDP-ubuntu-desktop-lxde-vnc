@@ -6,7 +6,6 @@ docker run -p 6070:80 dorowu/ubuntu-desktop-lxde-vnc
 
  ```
 
--
 # - Paste & Enter :
 ![image](https://github.com/arifkembiri/RDP-ubuntu-desktop-lxde-vnc/assets/110958613/2bf6fb76-5790-4e2e-9147-97c168023af7)
 
